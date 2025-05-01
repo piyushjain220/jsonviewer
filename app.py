@@ -19,6 +19,7 @@ css_style = """
        #MainMenu {visibility: hidden; }
        header {visibility: hidden;}
        footer {visibility: hidden;}
+       ._profileContainer_gzau3_53 {visibility: hidden;}
        .st-emotion-cache-1ibsh2c {
             padding-top:0px;
        }
